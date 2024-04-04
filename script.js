@@ -13,7 +13,7 @@ const headerMouseDefaultPosition = {
 
 sectionOneVideo.addEventListener("mouseenter", () => {
     headerMouse.style.top = 0
-    headerMouse.style.left = 0
+    headerMouse.style.left = 0``
 })
 
 sectionOneVideo.addEventListener("mousemove", (e) => {
